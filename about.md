@@ -8,4 +8,4 @@ My name is Sierra Lucht, and I am a junior in Computer Engineering at Iowa State
 
 ### Contact me
 
-[email@domain.com](mailto:sierralucht@gmail.com)
+[sierralucht@gmail.com](mailto:sierralucht@gmail.com)
