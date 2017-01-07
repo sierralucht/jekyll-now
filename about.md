@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+My name is Sierra Lucht, and I am a junior in Computer Engineering at Iowa State University. In my free time, I enjoy programming, baking, and playing board games. If you would like to learn more about me, feel free to contact me at sierralucht@gmail.com.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:sierralucht@gmail.com)
